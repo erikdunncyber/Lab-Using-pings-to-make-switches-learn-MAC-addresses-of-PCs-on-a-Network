@@ -1,4 +1,4 @@
-<h1>Packet Tracer - Using Pings to Make Switches Learn MAC Addresses of PCs on a Network and Clearing Dynamic MAC addresses</h1>
+<h1>Packet Tracer - Using Pings to Make Switches Learn MAC Addresses of PCs on a Network</h1>
 
 <p align="center">
 I created a simple LAN with 4 PCs interconnected between 2 switches: <br/>
